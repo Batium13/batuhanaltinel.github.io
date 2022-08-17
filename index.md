@@ -1,4 +1,4 @@
-## Ben Kimim ?
+## `Ben Kimim ?`
 
 Merhaba adım Batuhan ALTINEL. 1992 Yılında Kırklareli'nde doğdum. Liseyi Lüleburgaz Anadolu lisesi'nde okudum. Lisansımı Süleyman Demirel Üniversitesi makine mühendisliği bölümünde bitirdim. 
 
