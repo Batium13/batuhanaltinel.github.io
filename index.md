@@ -17,7 +17,7 @@ Telefon Numarası : &nbsp; &nbsp;(+90) 534 823 31 39
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Google Play Store](https://play.google.com/store/apps/developer?id=Batuhan+ALTINEL)
 
 
-![](Image/LinkedIn_icon.svg.png)$~$ $~$ $~$ $~$ $~$ $~$ 
-![](Image/GitHub-Mark-64px.png)$~$ $~$ $~$ $~$ $~$ $~$
-![](Image/icon-hackerrank-64.png)$~$ $~$ $~$ $~$ $~$ $~$
+![](Image/LinkedIn_icon.svg.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+![](Image/GitHub-Mark-64px.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![](Image/icon-hackerrank-64.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![](Image/googleplay.png)
