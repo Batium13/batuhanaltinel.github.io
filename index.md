@@ -6,15 +6,15 @@ Yaklaşık 2 yıldır iki farklı şirkette makine mühendisi olarak çalıştı
 
 Şu anda Unity3D oyun motorunda oyun geliştirmeye çalışıyorum. Öğrenmenin ve gelişmenin sınırı yok. Kariyerime oyun geliştirme sektöründe devam etmek istiyorum ve bunun üzerinde çalışıyorum.
 ## `İletişim bilgilerim`
-E-mail adresi :$~$ $~$ $~$ $~$ $~$  batuhan.altinel@hotmail.com <br>
-Telefon Numarası : $~$$~$(+90) 534 823 31 39
+E-mail adresi:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; batuhan.altinel@hotmail.com <br>
+Telefon Numarası : &nbsp; &nbsp;(+90) 534 823 31 39
 <br><br>
 ## `Hesaplarım`
 
 
- $~$ [LinkedIn](https://www.linkedin.com/in/batuhan-altinel/)
- $~$ $~$ $~$ $~$ $~$ $~$ $~$ $~$ [GitHub](https://github.com/BatuhanAltinel) $~$ $~$ $~$ $~$ $~$ $~$ $~$[HackerRank](https://www.hackerrank.com/batuhan_altinel?hr_r=1) 
- $~$ $~$ $~$ $~$ $~$ $~$ $~$ $~$[Google Play Store](https://play.google.com/store/apps/developer?id=Batuhan+ALTINEL)
+&nbsp; [LinkedIn](https://www.linkedin.com/in/batuhan-altinel/)
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [GitHub](https://github.com/BatuhanAltinel)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [HackerRank](https://www.hackerrank.com/batuhan_altinel?hr_r=1) 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Google Play Store](https://play.google.com/store/apps/developer?id=Batuhan+ALTINEL)
 
 
 ![](Image/LinkedIn_icon.svg.png)$~$ $~$ $~$ $~$ $~$ $~$ 
