@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Ben Kimim ?
 
-You can use the [editor on GitHub](https://github.com/Batium13/batuhanaltinel.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Merhaba adım Batuhan ALTINEL. 1992 Yılında Kırklarelinde doğdum. Liseyi Lüleburgaz Anadolu lisesinde okudum. Lisansımı Süleyman Demirel Üniversitesi makine mühendisliği bölümünde bitirdim. Yaklaşık 2 yıldır iki farklı şirkette makine mühendisi olarak çalıştım. Kalıp ve ağır çelik sektörlerinde, tasarım ve imalat mühendisliği pozisyonlarında görev aldım. Uzun zamandır üzerinde çalışmak istediğim oyun geliştirme sektörüne adım atmak istiyordum. Yeterli vakti ve enerjiyi bulamadığım için bir tercih yapmam gerekiyordu ve içimden gelen sese kulak vererek mevcut işimi 2022 yılının Haziran ayında bıraktım. Şu anda Unity3D oyun motorunda oyun geliştirmeye çalışıyorum. Öğrenmenin ve gelişmenin sınırı yok. Kariyerime oyun geliştirme sektöründe devam etmek istiyorum ve bunun üzerinde çalışıyorum.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Sosyal medya hesaplarım
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
