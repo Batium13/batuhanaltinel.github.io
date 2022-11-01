@@ -1,10 +1,10 @@
 ## `Ben Kimim ?`
 
-Merhaba adım Batuhan ALTINEL. 1992 Yılında Kırklareli'nde doğdum. Liseyi Lüleburgaz Anadolu lisesi'nde okudum. Lisansımı Süleyman Demirel Üniversitesi makine mühendisliği bölümünde bitirdim. 
+Hello, my name is Batuhan ALTINEL. I was born in 1992 in Kırklareli. I studied high school in Luleburgaz Anatolian High School. I graduated from Süleyman Demirel University, Department of Mechanical Engineering.
 
-Yaklaşık 2 yıldır iki farklı şirkette makine mühendisi olarak çalıştım. Kalıp ve ağır çelik sektörlerinde, tasarım ve imalat mühendisliği pozisyonlarında görev aldım. Uzun zamandır üzerinde çalışmak istediğim oyun geliştirme sektörüne adım atmak istiyordum. Yeterli vakti ve enerjiyi bulamadığım için bir tercih yapmam gerekiyordu ve içimden gelen sese kulak vererek mevcut işimi 2022 yılının Haziran ayında bıraktım. 
+I worked as a mechanical engineer in two different companies for about 2 years. I worked in the mold and heavy steel industries, in design and manufacturing engineering positions. I wanted to step into the game development industry, which I wanted to work on for a long time. Since I couldn't find enough time and energy, I had to make a choice and I left my current job in June 2022, listening to the voice inside me.
 
-Şu anda Unity3D oyun motorunda oyun geliştirmeye çalışıyorum. Öğrenmenin ve gelişmenin sınırı yok. Kariyerime oyun geliştirme sektöründe devam etmek istiyorum ve bunun üzerinde çalışıyorum.
+I'm currently trying to develop games on the Unity3D game engine. There is no limit to learning and development. I want to continue my career in the game development industry and I am working on it.
 ## `İletişim bilgilerim`
 E-mail adresi:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; batuhan.altinel@hotmail.com <br>
 Telefon Numarası : &nbsp; &nbsp;(+90) 534 823 31 39
