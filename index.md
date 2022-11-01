@@ -6,7 +6,7 @@ I worked as a mechanical engineer in two different companies for about 2 years. 
 
 I'm currently trying to develop games on the Unity3D game engine. There is no limit to learning and development. I want to continue my career in the game development industry and I am working on it.
 ## `Contact Informations`
-E-mail Adress :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; batuhan.altinel@hotmail.com <br>
+E-mail Adress:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; batuhan.altinel@hotmail.com <br>
 Phone Number : &nbsp; &nbsp;(+90) 534 823 31 39
 <br><br>
 ## `My Accounts`
