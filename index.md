@@ -1,6 +1,6 @@
 ## `Who am I ?`
 
-Hello, my name is Batuhan ALTINEL. I was born in 1992 in Kırklareli. I studied high school in Luleburgaz Anatolian High School. I graduated from Süleyman Demirel University, Department of Mechanical Engineering.
+Hello, my name is Batuhan ALTINEL. I was born in 1992 in Kirklareli. I studied high school in Luleburgaz Anatolian High School. I graduated from Süleyman Demirel University, Department of Mechanical Engineering.
 
 I worked as a mechanical engineer in two different companies for about 2 years. I worked in the mold and heavy steel industries, in design and manufacturing engineering positions. I wanted to step into the game development industry, which I wanted to work on for a long time. Since I couldn't find enough time and energy, I had to make a choice and I left my current job in June 2022, listening to the voice inside me.
 
